@@ -1,11 +1,11 @@
 # CRYPTOGRAPHY
-HILL CIPHER
+ # HILL CIPHER
 ## NAME: MASINA SREE KARSH
 ## REG.NO:212223100033
 EX. NO: 1(C) AIM:
  
 
-IMPLEMENTATION OF HILL CIPHER
+ ## IMPLEMENTATION OF HILL CIPHER
  
 ## To write a C program to implement the hill cipher substitution techniques.
 
